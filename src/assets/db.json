@@ -1,0 +1,18 @@
+{
+    "users" : [
+        {
+            "id" : 101,
+            "firstName" : "Kashmiri",
+            "lastName" : "Mahanta",
+            "email" : "kmonimahanta@gmail.com",
+            "location" : "Hyd"
+        },
+        {
+            "id" : 102,
+            "firstName" : "Chandana",
+            "lastName" : "Mahanta",
+            "email" : "chandana@gmail.com",
+            "location" : "Hyd"
+        }
+    ]
+}
